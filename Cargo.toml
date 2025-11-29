@@ -1,0 +1,10 @@
+[package]
+name = "Reflex"
+version = "3.45.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "Reflex"
+path = "main.rs"
